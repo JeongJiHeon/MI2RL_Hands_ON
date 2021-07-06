@@ -1,0 +1,6 @@
+classes= 1
+train  = /gdrive/My Drive/HandsOn/ObjectDetection/metadata/tr_list.txt
+valid  = /gdrive/My Drive/HandsOn/ObjectDetection/metadata/val_list.txt
+names  = /gdrive/My Drive/HandsOn/ObjectDetection/cfg/rsna.names
+backup = /gdrive/My Drive/HandsOn/ObjectDetection/backup
+    
